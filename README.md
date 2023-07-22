@@ -1,4 +1,4 @@
-# Queijomen - Predict The Price of a House
+# Predict The Price of a House
 
 ## Content
 ##### 1. Project Aim
